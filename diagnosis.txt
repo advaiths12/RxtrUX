@@ -1,0 +1,6 @@
+Primary Diagnosis:
+You are most likely afflicted with: Cardiomegaly
+This is concluded with a probability of: 10.9830121994
+Secondary Diagnosis:
+The second most likely disease is: Atelectasis
+This is concluded with a probability of: 1.99281311035
